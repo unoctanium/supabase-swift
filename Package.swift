@@ -24,7 +24,7 @@ let package = Package(
       name: "SupabaseStorage", url: "https://github.com/supabase/storage-swift.git", .exact("0.0.1")
     ),
     .package(
-      name: "Realtime", url: "https://github.com/supabase/realtime-swift.git", .exact("0.0.1")),
+      name: "Realtime", url: "https://github.com/unoctanium/realtime-swift.git", .exact("1.0.1")),
     .package(
       name: "PostgREST", url: "https://github.com/supabase/postgrest-swift", .exact("0.0.2")),
   ],
